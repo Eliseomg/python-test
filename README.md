@@ -29,14 +29,12 @@ _Te solicitara que ingreses la ruta del archivo txt_
 Enter the file path: <put file path>
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
 ## Despliegue 📦
 
 _Los archivos xlsx se almacenan en la carpeta output_
 
 ## Autore ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_Creado por_
 
-* **Eliseo Morales**  - [villanuevand](https://github.com/villanuevand)
+* **Eliseo Morales**
