@@ -2,6 +2,8 @@
 
 _Simple proceso ETL_
 
+_Realiza una ETL, extrayendo datos de un archivo csv y almacenando datos a una base de datos SQLite. El modelo de la tranformación creada se encuentra en el archivo database.DB3_
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
